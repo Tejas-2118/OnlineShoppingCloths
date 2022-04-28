@@ -1,0 +1,22 @@
+*{
+  margin: 2.5px;
+  color: white;
+  font-size: large;
+  
+}
+#link{
+  color:"rgb(243, 243, 16)";
+}
+.Navbar{
+  
+  text-decoration: double;
+  font-size: larger;
+  height: 40px; 
+  padding-top: 5px;  
+  color: red;
+}
+.cart
+{
+  image-resolution:5% ;
+}
+

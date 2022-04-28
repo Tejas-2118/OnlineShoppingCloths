@@ -1,0 +1,68 @@
+.Div1{
+
+        text-align: center;
+        background-size: 100%;
+        background-position: center center;
+        width: 100%;
+        top: 0;
+        left: 0;
+        transition: top 0.5s ease-in-out;
+        z-index: 100;
+        
+      }
+      .submitbutton
+      {
+        text-align: center;
+        color: red;
+      }
+      *
+      {
+        color: yellow;
+        font-size: large;
+      }
+      
+      .link
+      {
+        color: rgb(241, 241, 21);
+        font-size: larger;
+      }
+      .link1
+      {
+        color: rgb(241, 241, 21);
+        font-size: large;
+      }
+      .form1{
+        height: 60%;
+        width: 50%;
+        margin-left: 25%;
+      
+        padding:10px;
+        border:5px solid red;
+        background-color:cyan;
+        color:rgb(225, 242, 41);
+      }
+      #sub{
+          color: yellow;
+          background-color: black;
+         
+      }
+      input{
+          color: blanchedalmond;
+          background-color: blanchedalmond;
+      }
+      #title
+      {
+        font-size: x-large;
+        text-align: center;
+       color: rgb(231, 231, 13);
+      }
+      .App-logo {
+        height: 90px;
+        pointer-events: none;
+      }
+      
+      @media (prefers-reduced-motion: no-preference) {
+        .App-logo {
+          animation:none;
+        }
+      }
